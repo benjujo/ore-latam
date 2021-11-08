@@ -1,10 +1,10 @@
 # ORE latam
 
 ## What?
-This is my own latam layout for [xk](https://en.wikipedia.org/wiki/X_keyboard_extension).
+This is my own latam layout for [xkb](https://en.wikipedia.org/wiki/X_keyboard_extension).
 
 ## Why?
-Default latam include a lot of symbols that i don't even know its names. So i decided from the minimal latam distribution, include symbols that i really use.
+Default latam include a lot of symbols that i don't even know its names. So i decided from the minimal latam distribution, include symbols that i ~~pretend to~~ really use.
 
 ## The layout
 ```
